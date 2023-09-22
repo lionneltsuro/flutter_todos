@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD4ht2KYRvnr0GQhrEoNxiyeTfqcSOrB5k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>940026275190</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.verygoodcore.flutter-todos</string>
+	<key>PROJECT_ID</key>
+	<string>todos-app-b8696</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todos-app-b8696.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:940026275190:ios:18109dcd212bbbb0a6c657</string>
+</dict>
+</plist>
